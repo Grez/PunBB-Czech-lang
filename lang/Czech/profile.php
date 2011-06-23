@@ -3,6 +3,7 @@
 $lang_profile = array(
 
 // Navigation and sections
+'Profile redirect'	=>	'Profil aktualizován.',
 'Instructions'				=>	'Budete přesměrováni zpět na tuto stránku.',
 'Update profile'			=>	'Upravit profil',
 
