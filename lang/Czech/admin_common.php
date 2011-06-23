@@ -53,7 +53,7 @@ $lang_admin_common = array(
 'Searches'						=>	'Hledat',
 'Groups'						=>	'Skupiny',
 'Ranks'							=>	'Hodnosti',
-'Bans'							=>	'Zákazy',
+'Bans'							=>	'Bany',
 
 // Management Submenu
 'Reports'						=>	'Hlášení',
