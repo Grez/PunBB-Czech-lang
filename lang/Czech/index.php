@@ -1,0 +1,48 @@
+<?php
+
+// Language definitions used in index.php
+$lang_index = array(
+
+'Moderated by'				=>	'Moderátoři: %s',
+'Link to'					=>	'Odkaz na %s',
+'Category subtitle'			=>	'%1$s v&nbsp;této kategorii s&nbsp;podrobnostmi %2$s',
+'Forums'					=>	'Fóra',
+'Topics'					=>	'Témata',
+'Posts'						=>	'Příspěvky',
+'Last post'					=>	'Poslední příspěvek:',
+'last post'					=>	'poslední příspěvek',
+'topics'					=>	'témata',
+'topic'						=>	'témat',
+'post'						=>	'příspěvek',
+'posts'						=>	'příspěvky',
+'No topic info'				=>	'Žádné informace o&nbsp;tématu',
+'No post info'				=>	'Žádné informace o&nbsp;příspěvku',
+'No lastpost info'			=>	'Žádné informace o&nbsp;posledním příspěvku',
+'Forum is empty'			=>	'Toto fórum je prázdné',
+'First post nag'			=>	'Buďte první, kdo založí téma v&nbsp;tomto fóru!',
+'Last poster'				=>	'od %s',
+'Empty board'				=>	'Fórum je prázdné',
+'Newest user'				=>	'Nejnovějším uživatelem je %s',
+'No of users'				=>	'Registrovaní uživatelé: %s',
+'No of topics'				=>	'Témat celkem: %s',
+'No of posts'				=>	'Příspěvků celkem: %s',
+'Guests plural'				=>	'hostů: <strong>%s</strong>',
+'Guests single'				=>	'host: <strong>1</strong>',
+'Guests none'				=>	'hostů: <strong>0</strong>',
+'Users plural'				=>	'registrovaných uživatelů: <strong>%s</strong>',
+'Users single'				=>	'registrovaný uživatel: <strong>1</strong>',
+'Users none'				=>	'registrovaných uživatelů: <strong>0</strong>',
+'Currently online'			=>	'Přítomno ( %s )',
+'Online stats separator'	=>	', ',
+'Online list separator'		=>	', ',
+'Statistics'				=>	'Statistiky fóra',
+'External forum'			=>	'(Tento odkaz směřuje na místo mimo fórum)',
+'Forum has new'				=>	'( %s )',
+'Forum new posts'			=>	'Nové příspěvky',
+'New posts title'			=>	'Toto fórum obsahuje příspěvky vytvořené po vaší poslední návštěvě.',
+'Board options'				=>	'Nastavení fóra',
+'RSS active feed'			=>	'RSS zdroje aktivních témat',
+'Guests online'				=>	'Hostů online',
+'Users online'				=>	'Uživatelů online'
+
+);
