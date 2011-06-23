@@ -40,6 +40,7 @@ $lang_search = array(
 // Results
 'Search results'			=>	'Výsledky hledání',
 'Topics with new'			=>	'Témata s novými příspěvky',
+'All Topics'	=>	'Zobraz všechna témata'
 'Recently active topics'	=>	'Aktivní témata',
 'Unanswered topics'			=>	'Témata bez odpovědí',
 'Subscriptions'				=>	'Sledování',

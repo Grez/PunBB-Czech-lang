@@ -5,7 +5,6 @@ $lang_admin_common = array(
 
 // Common items
 'Save changes'					=>	'Uložit změny',
-'Redirect'						=>	'Přesměrovávám…',
 'Add'							=>	'Přidat',
 'Add new'						=>	'Přidat nové',
 'Delete'						=>	'Odstranit',

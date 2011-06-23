@@ -16,7 +16,7 @@ $lang_delete = array(
 'Topic title'			=>	'Téma: %s',
 'Reply title'			=>	'Odpověď: %s',
 'Please confirm'		=>	'Prosím potvrďte:',
-'Post del redirect'		=>	'Příspěvek smazán. Přesměrovávám…',
-'Topic del redirect'	=>	'Téma smazáno. Přesměrovávám…',
+'Post del redirect'		=>	'Příspěvek smazán.',
+'Topic del redirect'	=>	'Téma smazáno.',
 
 );

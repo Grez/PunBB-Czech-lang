@@ -84,8 +84,8 @@ $lang_admin_users = array(
 'Move users to label'			=>	'Přesun uživatelů do skupiny',
 
 // admin_users tables
-'Username column'				=>	'Uživatelské jméno - E-mail - Poznámky administrátora',
-'Title column'					=>	'Titul - Status',
+'Username column'				=>	'Uživatelské jméno — E-mail — Poznámky administrátora',
+'Title column'					=>	'Titul — Status',
 'Posts'							=>	'Příspěvků',
 'Actions'						=>	'Akce',
 'View IP stats'					=>	'Zobrazit statistiky IP',

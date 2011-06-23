@@ -36,7 +36,7 @@ $lang_common = array(
 'Forum message'				=>	'Zpráva pro vás',
 'Maintenance warning'		=>	'<strong>UPOZORNĚNÍ! %s zapnuta.</strong> Během probíhající údržby se NEODHLAŠUJTE, jinak se znovu nebudete moci přihlásit.',
 'Maintenance mode'			=>	'Údržba',
-'Redirecting'				=>	'Přesměrování',
+'Redirecting'				=>	' Přesměrování…',
 'Forwarding info'			=>	'Na novou stránku budete přesměrován za: %s %s',
 'second'					=>	'sekundu',
 'seconds'					=>	'sekund',
@@ -69,8 +69,8 @@ $lang_common = array(
 'Reqmark'					=>	'*',
 'Required'					=>	'(Povinné)',
 'Required warn'				=>	'Pole označena slovem %s musí být před odesláním formuláře vyplněny.',
-'Crumb separator'			=>	' »&#160;',
-'Title separator'			=>	' - ',
+'Crumb separator'			=>	' &rarr;&#160;',
+'Title separator'			=>	' — ',
 'Page separator'			=>	'&#160;',
 'Spacer'					=>	'…',
 'Paging separator'			=>	' ',
@@ -82,10 +82,10 @@ $lang_common = array(
 'Help page'					=>	'Nápověda pro: %s',
 'Re'						=>	'Re:',
 'Page info'					=>	'(Stránka %1$s z %2$s)',
-'Item info single'			=>	'%s [ %s ]',
-'Item info plural'			=>	'%s [ %s až %s z %s ]',
+'Item info single'			=>	'%s: %s',
+'Item info plural'			=>	'%s: %s - %s z %s', 
 'Info separator'			=>	' ',
-'Powered by'				=>	'Postaveno na <strong>%s</strong> | <a href="http://punbb.er.cz/">CZ a SK</a>',
+'Powered by'				=>	'Postaveno na %s', //PunBB.er.cz je víceméně mrtvý, radši ať jdou přímo na EN...
 'Maintenance'				=>	'Údržba',
 
 // CSRF confirmation form
