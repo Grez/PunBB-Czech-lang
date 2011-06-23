@@ -27,6 +27,9 @@ $lang_misc = array(
 'Report post'				=>	'Ohlásit vybraný příspěvek',
 'Reason'					=>	'Důvod hlášení:',
 'Reason help'				=>	'Napište stručně, proč upozorňujete na tento příspěvek. Např. porušení pravidel fóra, odkaz na nelegální nebo pirátský software, příspěvek je offtopic (mimo téma),…',
+'Too long reason'      =>  'Délka vašeho ohlášení je %s bytů. Toto překračuje %s bytový limit.',
+'Report errors'        =>  '<strong>Upozornění!</strong> Následující chyby musí být opraveny před tím, než může být hlášení odesláno:',
+
 
 // Subscriptions
 'Already subscribed'		=>	'Už jste přihlášen ke sledování tématu.',

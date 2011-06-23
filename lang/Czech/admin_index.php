@@ -6,7 +6,7 @@ $lang_admin_index = array(
 'Alerts'						=>	'Upozornění administrátora',
 'Check for updates enabled'		=>	'Toto fórum je nastaveno automaticky zjišťovat aktualizace a opravy pomocí servisu PunBB.',
 'Check for updates manual'		=>	'Zkontrolovat aktualizace',
-'Copyright message'				=>	'&copy; 2008-2009 <a href="http://punbb.informer.com/">PunBB</a>, částečně založeno na kódu &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
+'Copyright message'				=>	'&copy; 2008-2011 <a href="http://punbb.informer.com/">PunBB</a>, částečně založeno na kódu &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
 'PunBB version'				=>	'Verze PunBB',
 'Not available'					=>	'Informace nejsou dostupné',
 'Not applicable'				=>	'N/A',

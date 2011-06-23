@@ -76,6 +76,7 @@ $lang_admin_users = array(
 'Ban admin message'				=>	'Jeden nebo více z&nbsp;vybraných uživatelů je administrátor a nemůže mu být udělen zákaz. Pokud mu chcete i&nbsp;přesto zákaz udělit, musíte ho nejdříve přesunout do jiné uživatelské skupiny.',
 'Users banned'					=>	'Uživatelům byl udělen zákaz.',
 'Mass ban info'					=>	'Zde můžete nastavit zprávu, která se bude zakázanému uživateli zobrazovat, a nastavit datum exspirace zákazu.',
+'Ban settings legend'	=>	'Zakázat uživatele'
 'Change group head'				=>	'Přesunout vybrané uživatele do nové skupiny',
 'User groups updated'			=>	'Uživatelská skupina byla upravena.',
 'Move users legend'				=>	'Přesun uživatelů',
