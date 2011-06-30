@@ -131,6 +131,13 @@ $lang_admin_settings = array(
 'Update check label'			=>	'Zapnout automatické zjišťování nových aktualizací.',
 'Check for versions'			=>	'Kontrola nových verzí',
 'Auto check for versions'		=>	'Zapnout automatické zjišťování nových verzí doplňků.',
+
+'Features mask passwords'      =>  'Skrývání hesel ve formulářích',
+'Features mask passwords legend'  =>  'Skrývání hesel',
+'Features mask passwords info'    =>  'Pokud je vypnuto, hesla se budou ve formulářích zobrazovat jako normální text a nebude vyžadována jejich opětovná kontrola. V přihlašovacím formuláři je heslo vždy vyhvězdičkováno.',
+'Enable mask passwords'        =>  'Povolit maskování hesel',
+'Enable mask passwords label'    =>  'Povolit maskování hesel ve formulářích.',
+
 'Features gzip'					=>	'Používání výstupní komprese GZip',
 'Features gzip legend'			=>	'Použití komprese GZip při výstupu.',
 'Features gzip info'			=>	'Pokud povolíte použití komprese GZip v&nbsp;PunBB, budou přenášená data od serveru k&nbsp;uživateli menší, ovšem CPU serveru bude více vytíženo. Abyste mohli povolit GZip, musí být PHP konfigurováno již se zlib (--with-zlib). Poznámka: Pokud je na Apache serveru použit \'mod_gzip\' nebo \'mod_deflate\', GZip nezapínejte.',
