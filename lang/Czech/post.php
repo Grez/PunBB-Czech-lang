@@ -22,7 +22,7 @@ $lang_post = array(
 'Post errors'			=>	'<strong>Upozornění!</strong> Před odesláním vašeho příspěvku musíte opravit tyto chyby:',
 'Guest name'			=>	'Jméno:',
 'Guest e-mail'			=>	'E-mail',
-'Post redirect'			=>	'Příspěvek vložen. Přesměrovávám…',
+'Post redirect'			=>	'Příspěvek vložen.',
 'Post reply'			=>	'Odpovědět',
 'Post new topic'		=>	'Nové téma',
 'Topic subject'			=>	'Předmět tématu:',
@@ -55,6 +55,6 @@ $lang_post = array(
 'Silent edit'			=>	'Tichá úprava (nezobrazí se "Naposledy upravil:…" v&nbsp;zobrazení tématu).',
 'Preview edited topic'	=>	'Náhled upraveného téma',
 'Preview edited reply'	=>	'Náhled upraveného příspěvku',
-'Edit redirect'			=>	'Příspěvek aktualizován. Přesměrovávám…'
+'Edit redirect'			=>	'Příspěvek aktualizován.'
 
 );

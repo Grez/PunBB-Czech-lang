@@ -44,6 +44,9 @@ $lang_forum = array(
 'Moderate forum'			=>	'Moderování fóra',
 'Mark forum read'			=>	'Označit fórum jako přečtené',
 'RSS forum feed'			=>	'RSS zdroj',
-'New posts info'			=>	'Přejít na první nový příspěvek od vaší poslední návštěvy.'
+'New posts info'			=>	'Přejít na první nový příspěvek od vaší poslední návštěvy.',
+'Unsubscribe'        =>  'Odhlásit',
+'Subscribe'          =>  'Sledovat',
+'Subscribe info'      =>  'Zasílat e-maily s novými tématy.',
 
 );

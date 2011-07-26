@@ -3,7 +3,7 @@
 $lang_profile = array(
 
 // Navigation and sections
-'Profile redirect'			=>	'Profil aktualizován. Přesměrovávám…',
+'Profile redirect'	=>	'Profil aktualizován.',
 'Instructions'				=>	'Budete přesměrováni zpět na tuto stránku.',
 'Update profile'			=>	'Upravit profil',
 
@@ -66,17 +66,24 @@ $lang_profile = array(
 'View your topics'			=>	'Zobrazit všechna vaše témata',
 'View user posts'			=>	'Zobrazit všechny příspěvky uživatele %s',
 'View user topics'			=>	'Zobrazit všechna témata uživatele %s',
-'View your subscriptions'	=>	'Zobrazit všechna vaše témata, která sledujete',
+'View your subscriptions'	=>	'Zobrazit všechna témata, která sledujete',
 'View user subscriptions'	=>	'Zobrazit všechna sledovaná témata uživatele %s',
+'View your forum subscriptions'	=>	'Zobrazit všechna fóra, která sledujete',
+'View user forum subscriptions'	=>	'Zobrazit všechna fóra sledovaná uživatelem %s',
 'Realname'					=>	'Skutečné jméno',
 'Location'					=>	'Bydliště',
 'From'						=>	'Bydliště',
 'Registered'				=>	'Zaregistrován',
 'Website'					=>	'Web',
+'Facebook'			=>	'Facebook',
+'Twitter'				=>	'Twitter',
+'LinkedIn'			=>	'LinkedIn',
+'Skype'					=>	'Skype',
 'IP'						=>	'IP',
 'Note'						=>	'Poznámka',
 'Posts'						=>	'Příspěvků',
 'Last post'					=>	'Poslední příspěvek',
+'Last visit'	=>	'Poslední návštěva',
 'Send forum e-mail'			=>	'Poslat uživateli e-mail prostřednictvím fóra',
 'Contact info'				=>	'Kontaktní údaje',
 'Jabber'					=>	'Jabber',
@@ -100,6 +107,8 @@ $lang_profile = array(
 'Edit count'				=>	'Počet příspěvků',
 'Admin note'				=>	'Poznámka',
 'Contact legend'			=>	'Kontaktní údaje',
+'Contact messengers legend'	=>	'Instant messaging',
+'Name or Url'	=>	'Vložte uživatelské jméno nebo adresu',
 
 // Settings section
 'Local settings'			=>	'Místní nastavení',
@@ -232,7 +241,6 @@ $lang_profile = array(
 'Optional legend'			=>	'Nastavení lokalizace',
 'Language'					=>	'Jazyk',
 'Timezone'					=>	'Časové pásmo',
-'Adjust for DST'			=>	'Letní čas',
 'DST label'					=>	'V&nbsp;současné době platí letní čas.',
 'E-mail settings'			=>	'Nastavení e-mailu',
 'E-mail setting 1'			=>	'Zobrazovat vaši e-mailovou adresu.',

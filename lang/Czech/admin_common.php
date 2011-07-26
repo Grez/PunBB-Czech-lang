@@ -5,7 +5,6 @@ $lang_admin_common = array(
 
 // Common items
 'Save changes'					=>	'Uložit změny',
-'Redirect'						=>	'Přesměrovávám…',
 'Add'							=>	'Přidat',
 'Add new'						=>	'Přidat nové',
 'Delete'						=>	'Odstranit',
@@ -24,7 +23,7 @@ $lang_admin_common = array(
 'Delete help'					=>	'(Vyžaduje potvrzení)',
 'Select all'					=>	'Vybrat vše',
 'Required'						=>	'(Povinné)',
-'Required warn'					=>	'Všechna pole označená %s musí být před odesláním formuláře vyplněny.',
+'Required warn'					=>	'Všechna zvýrazněná pole musí být před odesláním formuláře vyplněna.',
 
 // Main Admin Menu Items and Title
 'Forum administration'			=>	'Administrace',

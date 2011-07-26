@@ -17,6 +17,6 @@ $lang_admin_reports = array(
 'No new reports'				=>	'(nejsou zde žádná nová nepřečtená hlášení)',
 'Read reports heading'			=>	'Posledních 10&nbsp;hlášení, která byla označena za přečtené',
 'No reports'					=>	'Nejsou zde žádná hlášení.',
-'Marked read by'				=>	'[Přečteno: %s | Uživatelem: %s]',
+'Marked read by'				=>	'Přečteno %s Uživatelem %s',
 
 );
